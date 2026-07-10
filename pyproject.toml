@@ -25,6 +25,9 @@ dependencies = [
     "xontrib-jedi",
     "xontrib-jump-to-dir",
     "xontrib-clp",
+    "xontrib-dalias[dict,yaml]",
+    "hist_navigator",
+    "coreutils"
 ]
 
 [project.optional-dependencies]
