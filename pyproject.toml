@@ -3,7 +3,7 @@ requires = ["setuptools>=61.0"]
 build-backend = "setuptools.backends._legacy:_Backend"
 
 [project]
-name = "xontrib-rc-awesome"
+name = "xontrib-rc-bones"
 version = "0.15.2"
 description = "Awesome snippets of code for xonshrc in xonsh shell."
 readme = "README.md"
